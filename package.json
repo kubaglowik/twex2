@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+    "build-css": "tailwindcss build src/styles.css -o public/styles. "
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "url": "https://github.com/kubaglowik/twex2/issues"
   },
   "homepage": "https://github.com/kubaglowik/twex2#readme",
-  "dependencies": {
+  "devDependencies": {
     "tailwindcss": "^3.3.3"
   }
 }
